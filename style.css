@@ -1,0 +1,29 @@
+@font-face {
+    font-family: inter;
+    src: url(fonts/Inter-Bold.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.rectangle {
+    width: 1249px;
+    height: 376px;
+    background-color: #22F4DA;
+    color: #000000;
+    margin-top: 73px;
+    margin-left: 86px;
+    border-radius: 30px;
+    padding: 29px 536px 308px 536px;
+}
+
+p {
+    font-family: inter;
+    font-size: 32px;
+    margin: 0;
+}
