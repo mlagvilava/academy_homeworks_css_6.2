@@ -16,13 +16,13 @@ body {
     height: 376px;
     background-color: #22F4DA;
     color: #000000;
-    margin-top: 73px;
-    margin-left: 86px;
+    margin-top: 73px !important; 
+    margin: auto;
     border-radius: 30px;
     padding: 29px 536px 308px 536px;
 }
 
-p {
+h1 {
     font-family: inter;
     font-size: 32px;
     margin: 0;
